@@ -1,0 +1,6 @@
+# ImageNet Classification with Deep Convolutional Neural Networks
+### AlexNet
+AlexNet is a deep learning model designed for image classification. It takes an image as input and passes it through several layers to learn patterns and features like edges, colors, and shapes. It has five convolutional layers (which extract features) followed by three fully connected layers (which make predictions). The model uses ReLU to make training faster, max pooling to reduce size, and dropout to prevent overfitting. AlexNet was one of the first models to show that deep learning could perform really well on large image datasets like ImageNet, and it helped start the modern AI boom in computer vision.
+<br>
+<br>
+I built an image classification model using the AlexNet architecture to distinguish between cats and dogs. I prepared the dataset by collecting and organizing images into labeled folders, then trained the model on this data. After training, I saved the model and used it in a final application where users can upload an image, and the model predicts whether it’s a cat or a dog. The application was built using a simple GUI to make it easy to use and visualize the results.
