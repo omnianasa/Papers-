@@ -2,8 +2,8 @@ import os, shutil
 from sklearn.model_selection import train_test_split
 def split_data(source_folder, target_root):
     allFiles = os.listdir(source_folder)
-    train, temp = train_test_split(allFiles, test_size=.2)
-    val, test = train_test_split(temp, test_size=.2)
+    train, temp = train_test_split(allFiles, test_size=.1)
+    val, test = train_test_split(temp, test_size=.111)
 
     for folder_name, files in zip(["train", "val", "test"], [train, val, test]):
         target_folder = os.path.join(target_root, folder_name, os.path.basename(source_folder))
