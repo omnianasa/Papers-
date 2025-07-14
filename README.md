@@ -20,6 +20,12 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
+## Recurrent Neural Networks (Rnn)
+
+[7- Empirical Evaluation of Gated Recurrent Neural Networks](https://github.com/omnia197/Papers-/tree/main/7)  
+
+---
+
 ## Surveys and benchmarks
 
 [6- Activation Function developments](https://github.com/omnia197/Papers-/tree/main/6)  
