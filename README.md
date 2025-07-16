@@ -26,9 +26,11 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
-## Surveys and benchmarks
+## Technical, Mathematics and benchmarks
 
-[6- Activation Function developments](https://github.com/omnia197/Papers-/tree/main/6)  
+[6- Activation Function developments](https://github.com/omnia197/Papers-/tree/main/6) 
+
+[9- Searching For Activation Function](https://github.com/omnia197/Papers-/tree/main/9)  
 
 ## Coming Soon
 
