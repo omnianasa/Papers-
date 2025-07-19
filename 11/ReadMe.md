@@ -21,6 +21,9 @@ EfficientNet introduces a new method called **compound scaling**. This technique
 
 The starting point is a small but strong model called EfficientNet-B0 which was found using an automated search tool (Neural Architecture Search). From this model, other versions like B1 to B7 are created by scaling up each one getting a little bigger and better.
 
+![acc](acc.jpeg)
+
+
 ---
 
 ## Main Ideas Behind the Model
@@ -30,6 +33,9 @@ The starting point is a small but strong model called EfficientNet-B0 which was 
 - **Neural Architecture Search (NAS)**: The base model, EfficientNet-B0, wasn’t built by hand. It was discovered using AutoML tools, which automatically search for good model structures.
 
 - **Efficiency + Accuracy**: Even though EfficientNet is smaller than many previous models, it still beats them in accuracy. For example, EfficientNet-B7 performs better than a giant model like GPipe while using much less memory and computation.
+
+![Activation Map](map.jpeg)
+
 
 ---
 
