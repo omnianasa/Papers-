@@ -12,6 +12,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [10- Inception/GoogleNet](https://github.com/omnia197/Papers-/tree/main/10) 
 
+[11- EffecientNet](https://github.com/omnia197/Papers-/tree/main/11) 
+
 ---
 
 ## Region-based CNNs (R-CNN Family)
