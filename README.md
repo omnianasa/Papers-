@@ -34,6 +34,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [6- Activation Function developments](https://github.com/omnia197/Papers-/tree/main/0006) 
 
+[8- Neural Style](https://github.com/omnia197/Papers-/tree/main/0008) 
+
 [9- Searching For Activation Function](https://github.com/omnia197/Papers-/tree/main/0009)  
 
 ## Coming Soon
