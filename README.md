@@ -24,9 +24,12 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
-## Recurrent Neural Networks (Rnn)
+## Recurrent Neural Networks (Rnn Family)
 
 [7- Empirical Evaluation of Gated Recurrent Neural Networks](https://github.com/omnia197/Papers-/tree/main/0007)  
+
+
+[12- Sequence to Sequence Learning with Neural Networks](https://github.com/omnia197/Papers-/tree/main/0012) 
 
 ---
 
