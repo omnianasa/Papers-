@@ -31,6 +31,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [12- Sequence to Sequence Learning with Neural Networks](https://github.com/omnia197/Papers-/tree/main/0012) 
 
+[13- NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://github.com/omnia197/Papers-/tree/main/0013)
+
 ---
 
 ## Technical, Mathematics and benchmarks
@@ -43,7 +45,5 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ## Coming Soon
 
-- Recurrent Neural Networks (RNNs)
 - Faster RCNN
-- LSTM
 - Transformers
