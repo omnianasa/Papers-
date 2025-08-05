@@ -35,6 +35,11 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ---
 
+## Generative Adversarial Networks (GANs):
+
+[14- Generative Adversarial Nets](https://github.com/omnia197/Papers-/tree/main/0014)
+
+
 ## Technical, Mathematics and benchmarks
 
 [6- Activation Function developments](https://github.com/omnia197/Papers-/tree/main/0006) 
