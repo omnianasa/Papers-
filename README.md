@@ -14,6 +14,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [11- EffecientNet](https://github.com/omnia197/Papers-/tree/main/0011) 
 
+[17- Show and Tell:A Neural Image Caption Generator](https://github.com/omnia197/Papers-/tree/main/0017) 
+
 ---
 
 ## Region-based CNNs (R-CNN Family)
