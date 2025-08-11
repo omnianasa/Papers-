@@ -45,6 +45,9 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [16- Conditional Generative Adversarial Nets](https://github.com/omnia197/Papers-/tree/main/0016)
 
+## Transformers
+
+[18- Attention Is All You Need](https://github.com/omnia197/Papers-/tree/main/0018)
 
 
 ## Technical, Mathematics and benchmarks

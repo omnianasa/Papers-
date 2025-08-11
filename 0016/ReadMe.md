@@ -1,12 +1,12 @@
 # Conditional Generative Adversarial Nets – Simple Summary
 
 ## Overview
-This paper introduces a new way to train generative models called **Conditional Generative Adversarial Nets (cGANs)**.  
+This paper introduces a new way to train generative models called Conditional Generative Adversarial Nets (cGANs)  
 A standard Generative Adversarial Net (GAN) has two models:
-- A **Generator** that creates fake data.
-- A **Discriminator** that tries to tell real data from fake data.  
+- A Generator that creates fake data.
+- A Discriminator that tries to tell real data from fake data.  
 
-In a cGAN, both the generator and discriminator also receive **extra information** (a condition) such as a class label, part of an image, or data from another source. This allows the generator to create data that matches the given condition.  
+In a cGAN, both the generator and discriminator also receive extra information (a condition) such as a class label, part of an image, or data from another source. This allows the generator to create data that matches the given condition.  
 
 ---
 
@@ -63,7 +63,7 @@ They extended cGANs to generate descriptive image tags.
 ---
 
 ## How to Benefit from This Work
-- Use cGANs when you need **conditional generation** (e.g., controlled image synthesis, data augmentation with labels, text-to-image, or image-to-text).
-- For multi-modal tasks, pair cGANs with good feature extractors (e.g., CNNs for images, embeddings for text).
-- Experiment with architecture and training techniques to stabilize learning (e.g., BatchNorm, different optimizers like Adam, Wasserstein loss).
-- Consider joint training of the condition’s feature extractor (e.g., a language model) with the cGAN for better performance.
+1 - Use cGANs when you need conditional generation (e.g., controlled image synthesis, data augmentation with labels, text-to-image, or image-to-text).
+2 - For multi-modal tasks, pair cGANs with good feature extractors (e.g., CNNs for images, embeddings for text).
+3 - Experiment with architecture and training techniques to stabilize learning (e.g., BatchNorm, different optimizers like Adam, Wasserstein loss).
+4 - Consider joint training of the condition’s feature extractor (e.g., a language model) with the cGAN for better performance.
