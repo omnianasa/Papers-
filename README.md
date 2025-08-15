@@ -49,6 +49,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [18- Attention Is All You Need](https://github.com/omnia197/Papers-/tree/main/0018)
 
+[19- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/omnia197/Papers-/tree/main/0019)
+
 
 ## Technical, Mathematics and benchmarks
 
