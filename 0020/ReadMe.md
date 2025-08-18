@@ -94,19 +94,6 @@ $$
 
 ---
 
-## Example (MNIST Digits)
-
-| Step     | Description          | Math Example |
-|----------|-------------------|--------------|
-| Input    | Clean digit        | \(\mathbf{x} = [0.0, 0.8, 0.5, ..., 0.1]\) |
-| Corrupt  | Randomly mask      | \(\tilde{\mathbf{x}} = [0.0, 0.0, 0.5, ..., 0.1]\) |
-| Encode   | Hidden rep.        | \(\mathbf{y} = \sigma(\mathbf{W}\tilde{\mathbf{x}} + \mathbf{b})\) |
-| Decode   | Reconstruct input  | \(\mathbf{z} = \sigma(\mathbf{W'} \mathbf{y} + \mathbf{b'})\) |
-| Loss     | Compare z to x     | \(L = \|\mathbf{x} - \mathbf{z}\|^2\) |
-| Update   | Adjust weights     | \(\mathbf{W} \leftarrow \mathbf{W} - \eta \nabla_\mathbf{W} L\) |
-
----
-
 ## Pseudocode
 
 ```python
@@ -134,6 +121,6 @@ def denoising_autoencoder(x, corruption_level=0.3):
     
     return z
 
-    ```
+```
 
 Check this paper to read more [DOI:10.1145/1390156.1390294](https://dl.acm.org/doi/10.1145/1390156.1390294)
