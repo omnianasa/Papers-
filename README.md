@@ -39,7 +39,7 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 ## AutoEncoder
 
-[Extracting and composing robust features with denoising autoencoders](https://github.com/omnia197/Papers-/tree/main/0020)
+[20- Extracting and composing robust features with denoising autoencoders](https://github.com/omnia197/Papers-/tree/main/0020)
 
 ---
 
@@ -57,6 +57,7 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [19- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/omnia197/Papers-/tree/main/0019)
 
+[21- Improving Language Understanding by Generative Pre-Training (GPT-1)](https://github.com/omnia197/Papers-/tree/main/0021)
 
 ## Technical, Mathematics and benchmarks
 
