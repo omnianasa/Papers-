@@ -51,6 +51,10 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [16- Conditional Generative Adversarial Nets](https://github.com/omnia197/Papers-/tree/main/0016)
 
+[22- Least Squares Generative Adversarial Networks](https://github.com/omnia197/Papers-/tree/main/0022)
+
+---
+
 ## Transformers
 
 [18- Attention Is All You Need](https://github.com/omnia197/Papers-/tree/main/0018)
@@ -58,6 +62,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 [19- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/omnia197/Papers-/tree/main/0019)
 
 [21- Improving Language Understanding by Generative Pre-Training (GPT-1)](https://github.com/omnia197/Papers-/tree/main/0021)
+
+---
 
 ## Technical, Mathematics and benchmarks
 
@@ -67,7 +73,10 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [9- Searching For Activation Function](https://github.com/omnia197/Papers-/tree/main/0009)  
 
+---
+
 ## Coming Soon
 
 - Faster RCNN
-- Transformers
+- Autoencoders
+- More types of GANS and transformers
