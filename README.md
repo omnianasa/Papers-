@@ -53,6 +53,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [22- Least Squares Generative Adversarial Networks](https://github.com/omnia197/Papers-/tree/main/0022)
 
+[24- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/omnia197/Papers-/tree/main/0024)
+
 ---
 
 ## Transformers
