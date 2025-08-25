@@ -67,6 +67,8 @@ This repository documents all the research papers I'm studying throughout my AI/
 
 [21- Improving Language Understanding by Generative Pre-Training (GPT-1)](https://github.com/omnia197/Papers-/tree/main/0021)
 
+[26- AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://github.com/omnia197/Papers-/tree/main/0026)
+
 ---
 
 ## Technical, Mathematics and benchmarks
